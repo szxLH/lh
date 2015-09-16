@@ -1,0 +1,15 @@
+2015-09-15
+	趣运动系统：http://wiki.qydw.net/pages/viewpage.action?pageId=8552653
+	登陆账号：lihang@quyundong.com
+	
+	git配置：
+	git config --global user.name "Your Name"
+ 	git config --global user.email "email@example.com"
+	git账号：szxLH
+	
+	svn测试机
+	http://tools.qydw.net/svn/svn.php?d=qydtest.com
+	登陆账号：lihang@quyundong.com
+	
+	shareOrder页面测试链接为：http://m.qydw.net/appwebview/shareOrder?id=17210
+

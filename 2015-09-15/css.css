@@ -1,0 +1,29 @@
+html,
+body,
+ul,
+ol,
+div,
+p {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: Helvetica, sans-serif;
+  color: #333; }
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block; }
+
+.container .box {
+  width: 25%;
+  float: left;
+  height: 100px;
+  background-color: #f80;
+  border: 10px solid #0ff;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/*# sourceMappingURL=css.css.map */
