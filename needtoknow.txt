@@ -6,9 +6,14 @@
 	git config --global user.name "Your Name"
  	git config --global user.email "email@example.com"
 	git’À∫≈£∫szxLH
-	
+	git lg≈‰÷√£∫
+	git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
+
 	svn≤‚ ‘ª˙
 	http://tools.qydw.net/svn/svn.php?d=qydtest.com
 	µ«¬Ω’À∫≈£∫lihang@quyundong.com
 	
 	shareOrder“≥√Ê≤‚ ‘¡¥Ω”Œ™£∫http://m.qydw.net/appwebview/shareOrder?id=17210
+
+	“∆∂Ø∂À≤‚ ‘≈‰÷√£∫browser-sync start --proxy="localhost:3000" --files="**" --no-notify
+

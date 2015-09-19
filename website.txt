@@ -11,3 +11,5 @@ http://www.zhangxinxu.com/wordpress/2010/12/jquery-powerfloatÍòÄÜ¸¡¶¯²ãÏÂÀ­²ã²å¼
 http://www.cnblogs.com/laorenjia/archive/2011/08/19/2145766.html	(svn¿ìËÙ½Ì³Ì)
 
 http://www.w3cfuns.com/article-5600020-1-1.html				(Ç°¶ËpsÇĞÍ¼ËÙ³É)
+
+https://github.com/JingwenTian/awesome-frontend				(Ç°¶ËÍøÕ¾¼¯ºÏ)
