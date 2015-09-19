@@ -17,3 +17,7 @@
 
 	移动端测试配置：browser-sync start --proxy="localhost:3000" --files="**" --no-notify
 
+
+2015-09-19
+	后台管理系统登陆：
+	http://gsadmin.qydw.net/admin
