@@ -14,4 +14,7 @@ http://www.w3cfuns.com/article-5600020-1-1.html				(前端ps切图速成)
 
 https://github.com/JingwenTian/awesome-frontend				(前端网站集合)
 
-http://blog.csdn.net/a649518776/article/details/7342059			(php上传图片到服务器)
+http://blog.csdn.net/a649518776/article/details/7342059	
+http://www.oschina.net/code/snippet_119226_8541				(php上传图片到服务器)
+
+http://www.expressjs.com.cn/starter/generator.html			(express)
