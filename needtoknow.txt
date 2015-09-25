@@ -29,3 +29,16 @@
 	邀请码和领券接口
 	http://wiki.qydw.net/pages/viewpage.action?pageId=8552744
 	http://wiki.qydw.net/pages/viewpage.action?pageId=7077892
+
+2015-09-25
+	解决iphone微信浏览器下拉问题
+	$(document).on("touchstart touchmove mousedown mousemove",function(event){ 
+var tag = $(event.target).parents()[0].tagName; 
+var thistag = event.target.tagName; 
+var tagId=event.target.id;
+if ( thistag != "SPAN" && tag!= "SPAN" &&thistag != "UL" && tag!= "UL" &&tag != "A" && tag != "INPUT" && tag != "TEXTAREA" && tag != "SELECT" && thistag != "A" && thistag != "INPUT" && thistag != "TEXTAREA" && thistag != "SELECT"&&tagId!="rankbank" && thistag != "TR"&&tagId!="address"&& thistag != "TD") 
+{ 
+event.preventDefault(); 
+} 
+})
+
