@@ -18,7 +18,17 @@ http://blog.csdn.net/a649518776/article/details/7342059
 http://www.oschina.net/code/snippet_119226_8541				(php上传图片到服务器)
 
 http://www.expressjs.com.cn/starter/generator.html			(express)
+http://www.sxt.cn/info-2562-u-324.html
 
 http://www.lellansin.com/jade-%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E4%BD%BF%E7%94%A8.html   (jade使用教程) 
 
 http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html		（mysql使用教程）
+
+http://www.ildsea.com/1781.html						 (实现微信浏览器内打开App Store链接)
+
+http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201307/216460.shtml	
+http://www.cnblogs.com/wangfupeng1988/p/4561993.html
+http://www.miaoyueyue.com/archives/728.html	
+http://www.gruntjs.net/getting-started					(grunt)
+
+http://blog.csdn.net/haidaochen/article/details/8546796			(npm常用操作)

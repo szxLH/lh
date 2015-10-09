@@ -42,3 +42,7 @@ event.preventDefault();
 } 
 })
 
+
+2015-09-28
+	¹ã¸æbanner£º
+	http://wiki.qydw.net/pages/viewpage.action?pageId=1245295
