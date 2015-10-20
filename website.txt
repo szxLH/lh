@@ -149,6 +149,7 @@ http://www.ruanyifeng.com/blog/2012/06/sass.html			(SASS用法指南)
 http://www.ibm.com/developerworks/cn/web/1207_zhaoch_lesscss/		(less)
 http://www.w3cplus.com/sassguide/					(scss)
 http://www.ruanyifeng.com/blog/2012/11/compass.html			(compass)
+http://compass-style.org/index/mixins/
 http://compass-style.org/reference/compass/				(compass-minix查询手册)
 http://jsnwork.kiiuo.com/archives/1874/sass-scss-compass-%E9%80%8F%E9%81%8Ecompass%E5%B0%87%E5%9C%96%E7%89%87%E8%87%AA%E5%8B%95sprite%E7%9A%84%E6%AD%A5%E9%A9%9F
 									(透過compass將圖片自動sprite的步驟)
