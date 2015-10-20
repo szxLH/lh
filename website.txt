@@ -1,9 +1,162 @@
+http://docs.emmet.io/cheat-sheet/ (快捷输入)
+http://www.jb51.net/css/97298.html （浏览器常见兼容问题）
+http://www.cnblogs.com/littledu/archive/2011/05/20/2051648.html(ie6下面图片透明问题)
+http://blog.sina.com.cn/s/blog_683f52b40101436t.html
+如何让ie6和ie7兼容display：inline-block；
+http://www.51res.net/html/2003/0402/1182.html
+和http://www.cnblogs.com/hejia/archive/2013/05/26/3099697.html
+父元素与子元素之间的margin-top问题(css hack)
+http://www.jb51.net/css/39629.html	水平垂直居中
+http://blog.csdn.net/wyjie1987/article/details/8557845(js监控键盘输入)
+http://bbs.shendu.com/thread-2627865-1-1.html(翻墙)
+http://www.2cto.com/kf/201405/298130.html (纯CSS3文字效果推荐)
+http://www.cnblogs.com/mofish/archive/2011/06/23/2088386.html(CSS3下的渐变文字效果实现)
+http://www.w3cplus.com/css3/css3-3d-transform.html (CSS3 3D Transform)
+http://blog.csdn.net/net_lover/article/details/5212026( CSS3尝鲜（二）：用CSS设置多个背景、背景渐变、指定背景大小)
+http://blog.csdn.net/henren555/article/details/9699449  (矩阵)
+http://www.cnblogs.com/webblog/archive/2009/07/07/1518274.html(选择器)
+http://www.cnblogs.com/coco1s/p/3953653.html(javascript复习)
+
+http://www.html5cn.org/article-6369-1.html   10款让人惊叹的HTML5/jQuery图片动画特效
+
+http://www.cnblogs.com/bluedream2009/archive/2010/06/19/1760909.html  (Tween在线演示)
+
+
+http://cubic-bezier.com/#.03,.39,1,.05(transition 贝塞尔曲线)
+
+http://lufylegend.com/lufylegend(lufylegend 开源引擎)
+
+http://lufylegend.com/lufylegend/demo(不错的demo)
+http://lufylegend.com/api/zh_CN/out/index.html(lufy参考手册)
+http://www.cnblogs.com/shangdahao/archive/2013/03/30/2462477.html
+(box-2d)
+http://blog.csdn.net/lufy_legend/article/details/5733733(lufy寻路)
+
+http://bbs.egret-labs.org/plugin.php?id=webpage&identifier=Egret)
+(egret)
+http://blog.sina.com.cn/s/blog_a03d702f01012rvv.html(鼠标样式)
+
+http://www.jb51.net/article/14566.htm(cookie)
+
+http://cloudajs.org/docs/step4_API_Documentation#h2_7(百度touch-js)
+
+http://blog.csdn.net/jackfrued/article/details/8967667 (HTML5之FileReader的使用)
+
+http://blog.csdn.net/chenmeng2192089/article/details/8177975( html 获得file文本完整路径)
+
+http://www.dedejs.com/html/list-8.html(dedecms的视频)
+
+http://www.moke8.com/dedecms/（dedecms的模板）
+
+http://www.weeeb.net/c879.html	(网站建设中前端常用的jQuery+easing缓动的动画)
+http://james.padolsey.com/demos/jquery/easing/（缓动演示）
+
+http://www.php100.com/manual/jquery/(在线手册)
+
+http://www.2cto.com/kf/201203/122180.html(JS实现图片预加载)
+
+http://www.oschina.net/news/34700/6-js-loading-and-progress-bar-plugins?from=rss	(分享 6 款绚丽的 JS 加载动画和进度条插件)
+
+http://www.cnblogs.com/flash3d/archive/2012/01/30/2332022.html(任意多边形的碰撞检测——向量积判断方法)
+
+http://www.cnblogs.com/jeffwongishandsome/archive/2009/05/17/1458405.html(闭包)
+
+http://www.php100.com/html/webkaifa/DIV_CSS/2012/1030/11412.html(css3filter效果)
+
+http://www.html5cn.org/article-3892-1.html（css3-border）
+
+http://www.w3cplus.com/css3/css3-3d-transform.html(3d变换)
+
+http://blog.csdn.net/clh604/article/details/8295856（inline-block间距问题）
+
+http://www.php100.com/html/it/mobile/2014/0225/6572.html(20 个超酷的 HTML5/CSS3 应用及源码)
+
+http://blog.csdn.net/clh604/article/details/8536059(canvas教程)
+
+http://www.cnblogs.com/lixlib/archive/2012/12/17/2821338.html(canvas arcTo)
+
+http://www.html-5.cn/html5/texing/WebGL.html(canvas3d-webGL)
+
+http://bbs.9ria.com/thread-190079-1-1.html(canvas事件)
+http://www.108js.com/article/article3/30205.html?id=925（HTML5 Canvas游戏中处理用户输入）
+http://jo2.org/html5-canvas-ispointinpath/（路径）
+
+http://www.cnblogs.com/buginux/p/4111014.html(《JavaScript高级程序设计》学习笔记（第五章）- 上)
+
+http://www.csdn.net/article/2012-11-09/2811682-HTML5-APIs (Web开发者的最爱 5个超实用的HTML5 API)
+
+
+http://www.cnblogs.com/yjf512/archive/2011/06/03/2071914.html
+http://www.cnblogs.com/sweting/archive/2009/12/21/1629204.html(call)
+
+http://blog.csdn.net/dingxiaowei2013/article/details/18714035( [cocos2dx-html5]手把手，快速搭建 Cocos2d-HTML5 开发调试环境)
+
+http://blog.csdn.net/liuyuyefz/article/details/35573119( 小白游戏与编程的修炼之路)
+
+http://www.jb51.net/article/33087.htm（相册domo）
+
+http://www.cnblogs.com/tylerdonet/archive/2013/04/05/3000618.html（each）
+
+http://www.cnblogs.com/duanhuajian/p/4097310.html（swiper）
+
+http://www.cnblogs.com/hoojo/archive/2012/02/16/2354663.html （jQuery 获取屏幕高度、宽度）
+
+http://blog.csdn.net/jerryvon/article/details/8756565（用JS方法给元素加入CSS，还可以自动判断当前浏览器所适合的属性）
+
+http://www.lanrenzhijia.com/js/css3/（html5特效）
+
+http://www.php100.com/html/shipinjiaocheng/(php)
+
+3CHeWeCYYycFJTRjJIn6hzQwyo_OK2uS9oWoFoChsacvfsQnXnvK_urOmEI5qLvfUMnrIE8h6WbO0IVOALTqMDITHVxi6mGAa(php)
+
+http://www.jb51.net/article/33285.htm  （尝试在让script的type属性等于text/html）
+
+http://bbs.blueidea.com/thread-3103040-1-1.html  （传说中的WeixinJSBridge和微信rest接口）
+
+http://www.poluoluo.com/jzxy/201211/188320.html（移动端webapp开发必备知识）
+
+http://www.jb51.net/css/71829.html（IE滤镜）
+http://www.bitscn.com/school/HTMLCSS/201301/285451.html（IE滤镜解决css3兼容问题）
+
+http://www.zhangxinxu.com/css3/css3-transition-property.php（过渡）
+
+http://blog.sina.com.cn/s/blog_790b083d0102uyu1.html（egret教程）
+
+http://www.egret-labs.org/（egret）
+
+http://www.ibm.com/developerworks/cn/web/wa-ioshtml5/ (html5音频视频限制)
+
+http://www.bcty365.com/content-47-604-1.html (video.js使用教程)
+
+http://www.cnblogs.com/2050/p/3877280.html		（viewport）
+
+http://www.cnblogs.com/frostbelt/p/4136956.html  	 (display:box兼容)
+
+http://blog.csdn.net/zk437092645/article/details/8745647	（fileReader）
+
+http://www.jb51.net/os/windows/85667.html 		（win7配置iis运行asp的方法）
+
+http://www.regexlab.com/zh/regref.htm        （正则表达式）
+
+http://bbs.csdn.net/topics/190025991
+http://www.cnblogs.com/skywang/articles/2051052.html	（不错的正则表达式例子）
+
+http://www.runoob.com/		（经典学习网址）
+
+
+
 http://www.ruanyifeng.com/blog/2012/06/sass.html			(SASS用法指南)
+http://www.ibm.com/developerworks/cn/web/1207_zhaoch_lesscss/		(less)
+http://www.w3cplus.com/sassguide/					(scss)
+http://www.ruanyifeng.com/blog/2012/11/compass.html			(compass)
+http://compass-style.org/reference/compass/				(compass-minix查询手册)
+http://jsnwork.kiiuo.com/archives/1874/sass-scss-compass-%E9%80%8F%E9%81%8Ecompass%E5%B0%87%E5%9C%96%E7%89%87%E8%87%AA%E5%8B%95sprite%E7%9A%84%E6%AD%A5%E9%A9%9F
+									(透過compass將圖片自動sprite的步驟)
 
 http://www.cnblogs.com/cspku/articles/Git_cmds.html
 http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000
 http://www.ihref.com/read-16369.html					(git常用命令和学习手册)
-
+http://www.open-open.com/lib/view/open1414396787325.html   
 http://blog.csdn.net/zhanghenglei/article/details/14127211		（github基本使用）
 
 http://www.zhangxinxu.com/wordpress/2010/12/jquery-powerfloat万能浮动层下拉层插件/	（jQuery powerFloat万能浮动层下拉层插件）
@@ -19,16 +172,31 @@ http://www.oschina.net/code/snippet_119226_8541				(php上传图片到服务器)
 
 http://www.expressjs.com.cn/starter/generator.html			(express)
 http://www.sxt.cn/info-2562-u-324.html
+http://www.cnblogs.com/chenchenluo/p/4192282.html			(express中间件)
 
 http://www.lellansin.com/jade-%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E4%BD%BF%E7%94%A8.html   (jade使用教程) 
+
+http://www.css88.com/archives/4728					（underscore.js）
+
+http://www.ruanyifeng.com/blog/2012/11/require_js.html			(require.js)
 
 http://www.cnblogs.com/mr-wid/archive/2013/05/09/3068229.html		（mysql使用教程）
 
 http://www.ildsea.com/1781.html						 (实现微信浏览器内打开App Store链接)
-
-http://tgideas.qq.com/webplat/info/news_version3/804/808/811/m579/201307/216460.shtml	
-http://www.cnblogs.com/wangfupeng1988/p/4561993.html
+	
+http://www.cnblogs.com/wangfupeng1988/p/4561993.html			(grunt)
 http://www.miaoyueyue.com/archives/728.html	
-http://www.gruntjs.net/getting-started					(grunt)
+http://www.cnblogs.com/lhb25/archive/2013/01/24/grunt-for-javascript-project-a.html
+http://www.gruntjs.net/getting-started					(grunt中文教程)
+http://www.zhangxinxu.com/wordpress/2013/04/qunit-javascript-unit-test-%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/ 		(grunt qunit)		
 
 http://blog.csdn.net/haidaochen/article/details/8546796			(npm常用操作)
+
+http://blog.sina.com.cn/s/blog_546abd9f0101dpfy.html			(webstrom 9.0.3注册码)
+
+http://www.renfei.org/blog/dropzone-js-introduction.html		(dropzone.js 文件上传工具)
+
+http://www.360doc.com/content/14/0106/11/15643_343005039.shtml 		（跨域）
+http://huaidan.org/archives/2729.html
+http://www.jb51.net/article/57889.htm					（jsonp）
+http://www.bkjia.com/Javascript/977935.html				(angularjs跨域访问)
