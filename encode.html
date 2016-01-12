@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no,minimal-ui" />
+	<title>Document</title>
+	<style type="text/css">
+		body,html{
+			word-break: break-all;word-wrap: break-word;
+			font-size: 16px;
+			width: 100%;
+		}
+		input{
+			width: 100%;
+			margin: 10px;
+			font-size: 14px;
+			-webkit-box-sizing:border-box; 
+			box-sizing:border-box; 
+		}
+		button{
+			margin: 10px;
+		}
+	</style>
+</head>
+<body>
+	<label><span class="move">HEADER(网页链接,结尾?): </span><input type=text id="header" placeholder='http://m.qydw.net/static/dbgift.html?' /></label><br/>
+	<label>OTHER(其他字段,结尾&): <input type=text id="other" placeholder='venues_id=113&category_id=8&' /></label><br/>
+	<label>URL(分享链接): <input type=text id="url" placeholder='http://m.qydw.net/static/dbgift.html' /></label><br/>
+	<label>IMG_URL(分享大图): <input type=text id="imgUrl" placeholder='http://m.qydw.net/static/images/db/dbgiftshare.jpg' /></label><br/>
+	<label>THUMB_URL(分享小图): <input type=text id="thumbUrl" placeholder='http://m.qydw.net/static/images/db/dbgiftshare.jpg' /></label><br/>
+	<label>TITLE(分享标题): <input type=text id="title" placeholder='端午大放价，新用户专享' /></label><br/>
+	<label>DESCRIPTION(分享描述): <input type=text id="description" placeholder='吃完粽子趣运动，20元订场优惠券大放送，速领!' /></label><br/>
+	<button id="button">生成</button>
+	<div id="encode"></div>
+	<div id="encode2"></div>
+
+	<script type="text/javascript">
+		var header = document.getElementById('header'),
+			url = document.getElementById('url'),
+			other = document.getElementById('other'),
+			imgUrl = document.getElementById('imgUrl'),
+			thumbUrl = document.getElementById('thumbUrl'),
+			title = document.getElementById('title'),
+			description = document.getElementById('description'),
+			button = document.getElementById('button'),
+			encode = document.getElementById('encode'),
+			encode2 = document.getElementById('encode2'),
+			gosport = "gosport://share_info?";
+			exheader = null,
+			exurl = null,
+			eximgUrl = null,
+			exthumbUrl = null,
+			extitle = null,
+			exdescription = null,
+			text3 = null;
+		
+
+		header.value = 'http://m.quyundong.com/static/dbgift.html?';
+		other.value = 'venues_id=113&category_id=8&';
+		url.value = 'http://m.quyundong.com/static/dbgift.html';
+		imgUrl.value = 'http://m.quyundong.com/static/images/db/dbgiftshare.jpg';
+		thumbUrl.value = 'http://m.quyundong.com/static/images/db/dbgiftshare.jpg';
+		title.value = '端午大放价，新用户专享';
+		description.value = '吃完粽子趣运动，20元订场优惠券大放送，速领!';
+
+		button.onclick = function () {
+			
+			exheader = header.value + other.value + 'is_share=1&share_info=';
+			
+		 	exurl = 'url=' + encodeURIComponent(url.value)+'&';
+			
+			eximgUrl = 'img_url='+encodeURIComponent(imgUrl.value)+'&';
+			
+			exthumbUrl = 'thumb_url='+encodeURIComponent(thumbUrl.value)+'&';
+			
+			extitle = 'title='+title.value+'&';
+			
+			exdescription = 'description='+description.value;
+			link = exurl + eximgUrl +  exthumbUrl + extitle + exdescription;
+			console.log(gosport+link);
+			console.log(encodeURIComponent(link));	
+		 	text3 = exheader + encodeURIComponent(link);
+			encode.innerHTML = text3;
+			encode2.innerHTML = gosport+link;
+		}
+	</script>
+</body>
+</html>

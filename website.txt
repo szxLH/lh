@@ -128,7 +128,7 @@ http://www.ibm.com/developerworks/cn/web/wa-ioshtml5/ (html5音频视频限制)
 
 http://www.bcty365.com/content-47-604-1.html (video.js使用教程)
 
-http://www.cnblogs.com/2050/p/3877280.html		（viewport）
+
 
 http://www.cnblogs.com/frostbelt/p/4136956.html  	 (display:box兼容)
 
@@ -177,6 +177,8 @@ http://www.cnblogs.com/chenchenluo/p/4192282.html			(express中间件)
 http://www.cnblogs.com/qiuyeyaozhuai/archive/2013/04/23/3037349.html	(express从入门到菜鸟)
 http://www.cnblogs.com/yexiaochai/p/3527418.html			（叶小钗nodejs）
 http://www.cnblogs.com/huangxincheng/archive/2012/02/18/2356595.html	(mongodb8天)
+http://www.html-js.cn/front-development/Express-Course___V1U2-a9le%E2%80%941.html	(express)
+http://www.cnblogs.com/aaronjs/p/4489354.html
 
 http://www.lellansin.com/jade-%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E4%BD%BF%E7%94%A8.html   (jade使用教程) 
 
@@ -212,3 +214,41 @@ http://www.51xuediannao.com/qd63/index.php/page-3-77-1.html		(css引入特殊字体)
 https://github.com/duowan/fe-guide/blob/master/html-guide.md		(YY的前端代码规范 )
 https://github.com/duowan/fe-guide/blob/master/javascript-guide.md
 https://github.com/duowan/fe-guide/blob/master/css-guide.md
+
+http://blog.csdn.net/freshlover/article/details/39050609		(onpropertychange)
+
+http://www.html5cn.org/article-9099-1.html				(html5游戏)
+
+http://www.html5cn.org/article-8941-1.html				（js10个技巧）
+
+http://www.cnblogs.com/Wayou/p/jquery_plugin_tutorial.html		（jquery插件编写教程）
+http://zha-zi.iteye.com/blog/2037026
+http://www.cnblogs.com/Wayou/p/all-this.html				（详解this）
+
+rococolate.github.io							 (安卓调试)
+
+http://www.cnblogs.com/2050/p/3877280.html				（viewport）
+
+http://segmentfault.com/a/1190000003095883				 (html5重力感应)
+
+http://www.cnblogs.com/fishtreeyu/archive/2011/10/06/2200280.html	 (cookie)
+
+http://caibaojian.com/browser-ios-or-android.html			 (移动设备判断)
+
+http://www.w3cplus.com/preprocessor/compass-image-sprite.html		 (compass Sprite图)
+
+http://www.ruanyifeng.com/blog/2015/03/react.html			（react教程）
+
+http://blog.csdn.net/the_fire/article/category/682529			（backbone)
+
+http://www.daqianduan.com/1845.html					 (js测试工具)
+
+http://www.jb51.net/article/48941.htm					 (json按属性排序)
+
+http://www.wglong.com/index/demos/pullDownRefresh/cubiq-iscroll/index.html	(上拉加载更多)
+
+http://witcheryne.iteye.com/blog/1166331				 (seaJs)
+http://www.antcome.com/myfaq/SeaJS.html
+https://github.com/seajs/seajs/issues/547
+
+http://www.cnblogs.com/yjf512/p/3796229.html				(时间转换)
