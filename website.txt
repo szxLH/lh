@@ -176,9 +176,13 @@ http://www.sxt.cn/info-2562-u-324.html
 http://www.cnblogs.com/chenchenluo/p/4192282.html			(express中间件)
 http://www.cnblogs.com/qiuyeyaozhuai/archive/2013/04/23/3037349.html	(express从入门到菜鸟)
 http://www.cnblogs.com/yexiaochai/p/3527418.html			（叶小钗nodejs）
+http://www.cnblogs.com/EricaMIN1987_IT/p/3640450.html			(node上传图片)
 http://www.cnblogs.com/huangxincheng/archive/2012/02/18/2356595.html	(mongodb8天)
 http://www.html-js.cn/front-development/Express-Course___V1U2-a9le%E2%80%941.html	(express)
 http://www.cnblogs.com/aaronjs/p/4489354.html
+https://cnodejs.org/topic/547293caa3e2aee40698df0b			( nodejs+mongodb做项目的详解(最新))
+http://www.cnblogs.com/zhongweiv/p/nodejs_environment.html
+http://www.cnblogs.com/zhongweiv/p/nodejs_express_formidable.html?utm_source=tuicool&utm_medium=referral
 
 http://www.lellansin.com/jade-%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E4%BD%BF%E7%94%A8.html   (jade使用教程) 
 
@@ -238,6 +242,8 @@ http://caibaojian.com/browser-ios-or-android.html			 (移动设备判断)
 http://www.w3cplus.com/preprocessor/compass-image-sprite.html		 (compass Sprite图)
 
 http://www.ruanyifeng.com/blog/2015/03/react.html			（react教程）
+http://facebook.github.io/react/docs/reusable-components.html
+http://reactjs.cn/							（react中文文档）
 
 http://blog.csdn.net/the_fire/article/category/682529			（backbone)
 
@@ -250,5 +256,32 @@ http://www.wglong.com/index/demos/pullDownRefresh/cubiq-iscroll/index.html	(上拉
 http://witcheryne.iteye.com/blog/1166331				 (seaJs)
 http://www.antcome.com/myfaq/SeaJS.html
 https://github.com/seajs/seajs/issues/547
+http://julabs.com/blog/seajs-jquery-and-plugins/			 (jquery模块化)
 
 http://www.cnblogs.com/yjf512/p/3796229.html				(时间转换)
+http://www.cnblogs.com/yjf512/p/3796229.html
+
+http://www.zhangxinxu.com/wordpress/2013/06/%E4%BC%AA%E5%85%83%E7%B4%A0-%E8%A1%A8%E5%8D%95%E6%A0%B7%E5%BC%8F-pseudo-elements-style-form-controls/
+									(input样式)
+
+http://www.browsersync.cn/						（browsersync移动端样式测试）
+
+http://www.xiumu.org/technology/style-checkboxes-with-css.shtml		 (checkbox样式)
+
+http://www.cnblogs.com/pangxiaodong/archive/2011/05/26/2058864.html	(极小极大搜索方法、负值最大算法和Alpha-Beta搜索方法)
+http://blog.csdn.net/weirenren_027/article/details/10282719
+
+http://www.atool.org/gobang.php						(五子棋)
+http://blog.csdn.net/lynnlovemin/article/details/11133953
+http://www.xqbase.com/computer.htm					(象棋百科全书)
+
+http://www.internetke.com/effects/css3/2015/0117/1199.html		(swiper下拉加载更多)
+
+http://www.w3cfuns.com/notes/16843/1decc0aa63c9180ee564ffcd748165e8	(解读移动端事件穿透、Zepto tap穿透bug、移动端touch穿透)
+
+http://blog.csdn.net/uikoo9/article/details/43451377			(前端开发APP，从HBuilder开始~)
+http://ask.dcloud.net.cn/article/89					(5+ App开发入门指南)
+http://ask.dcloud.net.cn/article/88					(5+ App开发Native.js入门指南)
+http://ask.dcloud.net.cn/docs/
+
+http://www.cnblogs.com/TankXiao/p/3063871.html				(fiddler教程)
