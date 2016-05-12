@@ -181,8 +181,11 @@ http://www.cnblogs.com/huangxincheng/archive/2012/02/18/2356595.html	(mongodb8Ìì
 http://www.html-js.cn/front-development/Express-Course___V1U2-a9le%E2%80%941.html	(express)
 http://www.cnblogs.com/aaronjs/p/4489354.html
 https://cnodejs.org/topic/547293caa3e2aee40698df0b			( nodejs+mongodb×öÏîÄ¿µÄÏê½â(×îĞÂ))
+http://www.xiaoboy.com/detail/2015020310.html				(MongoDBÌí¼Óµ½Windows·şÎñºÍÉèÖÃ»·¾³±äÁ¿)
 http://www.cnblogs.com/zhongweiv/p/nodejs_environment.html
 http://www.cnblogs.com/zhongweiv/p/nodejs_express_formidable.html?utm_source=tuicool&utm_medium=referral
+http://www.33lc.com/article/6357_2.html					(mongod ÃüÁîĞĞ)
+http://www.tuicool.com/articles/R36bMbA					£¨mongoose)
 
 http://www.lellansin.com/jade-%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E%E4%BD%BF%E7%94%A8.html   (jadeÊ¹ÓÃ½Ì³Ì) 
 
@@ -259,7 +262,7 @@ https://github.com/seajs/seajs/issues/547
 http://julabs.com/blog/seajs-jquery-and-plugins/			 (jqueryÄ£¿é»¯)
 
 http://www.cnblogs.com/yjf512/p/3796229.html				(Ê±¼ä×ª»»)
-http://www.cnblogs.com/yjf512/p/3796229.html
+
 
 http://www.zhangxinxu.com/wordpress/2013/06/%E4%BC%AA%E5%85%83%E7%B4%A0-%E8%A1%A8%E5%8D%95%E6%A0%B7%E5%BC%8F-pseudo-elements-style-form-controls/
 									(inputÑùÊ½)
@@ -283,5 +286,28 @@ http://blog.csdn.net/uikoo9/article/details/43451377			(Ç°¶Ë¿ª·¢APP£¬´ÓHBuilder¿
 http://ask.dcloud.net.cn/article/89					(5+ App¿ª·¢ÈëÃÅÖ¸ÄÏ)
 http://ask.dcloud.net.cn/article/88					(5+ App¿ª·¢Native.jsÈëÃÅÖ¸ÄÏ)
 http://ask.dcloud.net.cn/docs/
+http://www.html5plus.org/doc/zh_cn/ios.html				(nativeJs-ios API)
+http://www.tuicool.com/articles/zaInUbA					(react-native)
+http://zhuanlan.zhihu.com/p/19996445					(react-native)
 
 http://www.cnblogs.com/TankXiao/p/3063871.html				(fiddler½Ì³Ì)
+
+http://yunzhu.iteye.com/blog/2177923					(FormData)
+https://segmentfault.com/a/1190000000519006
+
+http://www.hubwiz.com/coursecenter					(ÊÓÆµ½Ì³Ì)
+http://blog.fens.me/series-nodejs/					(´ÓÁã¿ªÊ¼nodejsÏµÁĞÎÄÕÂ)
+http://www.angularjs.cn/A08q						(angularjs)
+
+http://blog.csdn.net/baiduforum/article/details/5454276			(input¸ß¶ÈÑùÊ½¼æÈİ)
+
+http://chenzhutian.org/blog/2016/%E6%B5%85%E8%B0%88VisMooc%E7%9A%84%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/#0-tsina-1-36853-397232819ff9a47a7b7e80a40613cfe1		
+									(vuejs+webpack)
+http://router.vuejs.org/zh-cn/index.html				(vue-router)
+
+http://www.w2bc.com/Article/50764					(webpack)
+
+http://es6.ruanyifeng.com/#docs/intro					(es6)
+
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/slice	
+									(MDN)

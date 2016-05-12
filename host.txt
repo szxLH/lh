@@ -10,3 +10,12 @@
 120.55.117.253 aimage.qydw.net
 120.55.117.253 user.api.qydw.net
 120.55.117.253 order.api.qydw.net
+
+
+
+# 方案一
+# 什么也没有绑定
+#
+# 在这儿输入你需要绑定的 hosts
+127.0.0.1:80 m.test.quyundong.com
+127.0.0.1  m.test.qydw.net/
