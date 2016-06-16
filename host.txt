@@ -19,3 +19,7 @@
 # 在这儿输入你需要绑定的 hosts
 127.0.0.1:80 m.test.quyundong.com
 127.0.0.1  m.test.qydw.net/
+
+
+#微信后台
+127.0.0.1 dev.weixin.option.qydw.net

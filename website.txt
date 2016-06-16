@@ -171,16 +171,29 @@ https://github.com/JingwenTian/awesome-frontend				(前端网站集合)
 http://blog.csdn.net/a649518776/article/details/7342059	
 http://www.oschina.net/code/snippet_119226_8541				(php上传图片到服务器)
 
+
+
 http://www.expressjs.com.cn/starter/generator.html			(express)
 http://www.sxt.cn/info-2562-u-324.html
 http://www.cnblogs.com/chenchenluo/p/4192282.html			(express中间件)
 http://www.cnblogs.com/qiuyeyaozhuai/archive/2013/04/23/3037349.html	(express从入门到菜鸟)
 http://www.cnblogs.com/yexiaochai/p/3527418.html			（叶小钗nodejs）
+http://nqdeng.github.io/7-days-nodejs/					(7天学会node)
+https://github.com/youyudehexie/node123					(node)
 http://www.cnblogs.com/EricaMIN1987_IT/p/3640450.html			(node上传图片)
+https://github.com/alsotang/node-lessons				(node 包教不包会)
 http://www.cnblogs.com/huangxincheng/archive/2012/02/18/2356595.html	(mongodb8天)
 http://www.html-js.cn/front-development/Express-Course___V1U2-a9le%E2%80%941.html	(express)
 http://www.cnblogs.com/aaronjs/p/4489354.html
 https://cnodejs.org/topic/547293caa3e2aee40698df0b			( nodejs+mongodb做项目的详解(最新))
+https://cnodejs.org/topic/4f16442ccae1f4aa2700104d			(node-formidable详解)
+http://web.jobbole.com/84401/						(NodeJS 最佳实践)
+http://book.rednode.cn/							(史上最全的node书籍)
+https://cnodejs.org/topic/55651bf07d4c64752effb4b1			(Node.js最新Web技术栈（2015年5月）)
+https://cnodejs.org/topic/53d3938d895ba3062b7f4509			（async模块的异步处理）
+http://yijiebuyi.com/category/nodejs.html				(前端博客)
+
+		
 http://www.xiaoboy.com/detail/2015020310.html				(MongoDB添加到Windows服务和设置环境变量)
 http://www.cnblogs.com/zhongweiv/p/nodejs_environment.html
 http://www.cnblogs.com/zhongweiv/p/nodejs_express_formidable.html?utm_source=tuicool&utm_medium=referral
@@ -304,6 +317,11 @@ http://blog.csdn.net/baiduforum/article/details/5454276			(input高度样式兼容)
 http://chenzhutian.org/blog/2016/%E6%B5%85%E8%B0%88VisMooc%E7%9A%84%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/#0-tsina-1-36853-397232819ff9a47a7b7e80a40613cfe1		
 									(vuejs+webpack)
 http://router.vuejs.org/zh-cn/index.html				(vue-router)
+http://www.tuicool.com/articles/n2myYjU					(Webpack+React+ES6开发模式入门指南)
+https://segmentfault.com/a/1190000003499526				(基于webpack搭建前端工程解决方案探索)
+https://segmentfault.com/a/1190000002767365				(轻松入门React和Webpack)
+http://www.open-open.com/lib/view/open1447060624960.html		(Vue.js 快速入门=====>包含vue-resource)
+https://github.com/vuejs/vue-hackernews					(vue实例)
 
 http://www.w2bc.com/Article/50764					(webpack)
 
@@ -311,3 +329,15 @@ http://es6.ruanyifeng.com/#docs/intro					(es6)
 
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array/slice	
 									(MDN)
+
+http://www.apihome.cn/api/nodejs/util.html				(API之家）
+
+http://zh.lucida.me/blog/sublime-text-complete-guide/			(sublime使用教程)
+
+http://codepen.io/wenbin5243/pen/iheHF					(clip-path)
+
+http://www.haorooms.com/post/html_meta_ds				(meta详解)
+
+http://blog.sae.sina.com.cn/archives/2291				（js技巧）
+
+http://www.kancloud.cn/jikeytang/qq/81134				（前端资源教程）
