@@ -52,3 +52,10 @@ event.preventDefault();
 	360云盘
 	http://c65.yunpan.360.cn/my/index/ 
 	账号：dev@ningmi.net
+
+git push <远程主机名> <本地分支名>:<远程分支名>
+
+$ git pull <远程主机名> <远程分支名>:<本地分支名>
+$ git pull origin next:master
+如果远程分支是与当前分支合并，则冒号后面的部分可以省略。
+$ git pull origin next
