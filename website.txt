@@ -344,3 +344,5 @@ http://blog.sae.sina.com.cn/archives/2291				（js技巧）
 http://www.kancloud.cn/jikeytang/qq/81134				（前端资源教程）
 
 http://www.cnblogs.com/wadeyu/archive/2015/07/10/4636170.html
+
+http://www.ruanyifeng.com/blog/2014/06/git_remote.html
