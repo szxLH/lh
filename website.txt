@@ -1,4 +1,4 @@
-Creating a new branch is quick AND simple.
+
 http://docs.emmet.io/cheat-sheet/ (快捷输入)
 http://www.jb51.net/css/97298.html （浏览器常见兼容问题）
 http://www.cnblogs.com/littledu/archive/2011/05/20/2051648.html(ie6下面图片透明问题)
